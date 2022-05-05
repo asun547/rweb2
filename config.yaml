@@ -146,13 +146,13 @@ params:
   sharingOptions:
     - icon: fab fa-facebook-square
       name: Facebook
-      url: https://www.facebook.com/aman.sunny
+      url: https://www.facebook.com/sharer/sharer.php?u=%s
     - icon: fab fa-twitter
       name: Twitter
-      url: https://twitter.com/Sunny89473156
+      url: https://twitter.com/intent/tweet?text=%s
     - icon: fab fa-linkedin
       name: Linkedin
-      url: https://www.linkedin.com/in/amandeep-singh-a273b414/
+      url: https://www.linkedin.com/sharing/share-offsite/?url=%s
   sidebarBehavior: 1
   syntaxHighlighter: highlight.js
   thumbnailImage: yes
