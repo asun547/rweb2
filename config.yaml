@@ -29,12 +29,12 @@ menu:
     - identifier: github
       name: GitHub
       pre: <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
-      url: https://github.com/kakawait
+      url: https://github.com/asun547
       weight: 1
     - identifier: stackoverflow
       name: Stack Overflow
       pre: <i class="sidebar-button-icon fab fa-lg fa-stack-overflow" aria-hidden="true"></i>
-      url: https://stackoverflow.com/users/636472/kakawait
+      url: https://stackoverflow.com/users/19039348/aman
       weight: 2
   main:
     - identifier: home
@@ -146,13 +146,13 @@ params:
   sharingOptions:
     - icon: fab fa-facebook-square
       name: Facebook
-      url: https://www.facebook.com/sharer/sharer.php?u=%s
+      url: https://www.facebook.com/aman.sunny
     - icon: fab fa-twitter
       name: Twitter
-      url: https://twitter.com/intent/tweet?text=%s
+      url: https://twitter.com/Sunny89473156
     - icon: fab fa-linkedin
       name: Linkedin
-      url: https://www.linkedin.com/sharing/share-offsite/?url=%s
+      url: https://www.linkedin.com/in/amandeep-singh-a273b414/
   sidebarBehavior: 1
   syntaxHighlighter: highlight.js
   thumbnailImage: yes
