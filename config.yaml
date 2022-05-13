@@ -26,10 +26,10 @@ author:
   picture: /img/avatarr.jpg
 menu:
   links:
-    - identifier: github
-      name: GitHub
-      pre: <i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden="true"></i>
-      url: https://github.com/asun547
+    - identifier: linkedin
+      name: Linkedin
+      pre: <i class="sidebar-button-icon fab fa-lg fa-linkedin" aria-hidden="true"></i>
+      url: https://www.linkedin.com/in/amandeep-singh-a273b414/
       weight: 1
     - identifier: stackoverflow
       name: Stack Overflow

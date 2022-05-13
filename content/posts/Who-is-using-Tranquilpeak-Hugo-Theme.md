@@ -4,7 +4,7 @@ categories:
 - showcase
 date: "2015-06-14"
 slug: who-is-using-tranquilpeak-hugo-theme
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
+thumbnailImage: /img/lake_Louise_win.jpg
 thumbnailImagePosition: left
 title: Who's using Tranquilpeak Hugo Theme
 ---
