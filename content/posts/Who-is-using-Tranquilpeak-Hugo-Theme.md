@@ -2,14 +2,13 @@
 categories:
 - tranquilpeak
 - showcase
-date: "2015-06-14"
+date: "2022-04-02"
 slug: who-is-using-tranquilpeak-hugo-theme
 thumbnailImage: /img/lake_Louise_win.jpg
 thumbnailImagePosition: left
-title: Who's using Tranquilpeak Hugo Theme
+title: Lake Louise in April
 ---
-
-Here you can find a list of the blogs that use Tranquilpeak theme, with different styles and customizations.
+Weather gods play their game
 
 <!--more-->
 
